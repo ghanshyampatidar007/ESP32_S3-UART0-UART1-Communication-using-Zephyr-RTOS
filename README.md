@@ -1,0 +1,1 @@
+# ESP32_S3-UART0-UART1-Communication-using-Zephyr-RTOS
